@@ -14,3 +14,9 @@ nix-build
 ```bash
 nix build
 ```
+
+## Disclaimer
+
+- I hope someone finds this as useful as myself.
+- I take no credit for the software being packaged.
+- I also take no credit for the creation of these package scripts, as they were mostly AI-generated.
